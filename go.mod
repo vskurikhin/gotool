@@ -1,4 +1,4 @@
-module gotool
+module github.com/vskurikhin/gotool
 
 go 1.21
 
